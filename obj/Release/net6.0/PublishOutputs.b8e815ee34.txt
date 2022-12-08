@@ -1,0 +1,7 @@
+/Users/hongseonghyeon/cloud/bin/Release/net6.0/publish/cloud
+/Users/hongseonghyeon/cloud/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/hongseonghyeon/cloud/bin/Release/net6.0/publish/appsettings.json
+/Users/hongseonghyeon/cloud/bin/Release/net6.0/publish/cloud.dll
+/Users/hongseonghyeon/cloud/bin/Release/net6.0/publish/cloud.deps.json
+/Users/hongseonghyeon/cloud/bin/Release/net6.0/publish/cloud.runtimeconfig.json
+/Users/hongseonghyeon/cloud/bin/Release/net6.0/publish/cloud.pdb
